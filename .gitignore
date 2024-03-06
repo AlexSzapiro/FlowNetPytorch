@@ -1,2 +1,4 @@
 */_pycache__
 *.pyc
+/pretrained_model/
+/sequences-train/
