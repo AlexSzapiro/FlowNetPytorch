@@ -1,5 +1,4 @@
 */_pycache__
 *.pyc
-/pretrained_model/
 /sequences-train/
 pretrained_model/flownets_EPE1.951.pth.tar
